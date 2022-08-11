@@ -51,7 +51,7 @@ a{
 
 /*seccion imagen*/
 .card-img{
-    background-image: url(/product-preview-card-component-main/images/image-product-mobile.jpg);
+    background-image: url(/images/image-product-mobile.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -130,7 +130,7 @@ a{
         border-radius: 6px;
     }
     .card-img{
-        background-image: url(/product-preview-card-component-main/images/image-product-desktop.jpg);
+        background-image: url(/images/image-product-desktop.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
